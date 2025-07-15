@@ -14,11 +14,17 @@ VISION2TEXT is a third-year project that enables users to upload images of elect
 - 🎨 Clean React frontend and REST API backend with Node.js + Express
 
 📁 Project Structure
+
 vision2text/
+
 ├── client/ # React frontend
+
 ├── server/ # Node.js backend with MongoDB
+
 ├── .env # Environment variables (not pushed to GitHub)
+
 ├── .gitignore
+
 └── README.md # This file
 
 ⚙️ Tech Stack
